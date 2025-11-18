@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meteo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="meteo.xsd">
+    <mesure date="2025-01-01">
+        <ville nom="tanger" temperature="20"/>
+        <ville nom="rabat" temperature="26"/>
+    </mesure>
+
+    <mesure date="2025-01-02">
+        <ville nom="tanger" temperature="23"/>
+        <ville nom="rabat" temperature="39"/>
+    </mesure>
+</meteo>
